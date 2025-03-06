@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sayani Jana</h1>
-<h3 align="center">Computer Science Engineering Student 3rd Year | GATE 2024 Qualified</h3>
+<h3 align="center">Computer Science Engineering Student Final Year | GATE 2024 Qualified</h3>
 <img align="right" alt="Coder GIF" width=350 src="https://cdn.dribbble.com/users/1187836/screenshots/6539429/programer.gif" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayanijana23&label=Profile%20views&color=0e75b6&style=flat" alt="sayanijana23" /> </p>
 
