@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 📝 I'm currently preparing for **GATE 2025**
-
 - 📧 How to reach me **sayanijana23@gmail.com**
 
 - 📝 Know about my experiences [Resume](https://drive.google.com/file/d/1oxhs6GAG9az6D74rHPlkTxNvAfe0Jsp4/view?usp=sharing)
